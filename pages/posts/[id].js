@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Date from '../../components/Date'
+import Date from '../../components/MyDate'
 import Layout from '../../components/Layout'
 import { getPostData, getAllPostIds } from '../../lib/posts'
 import utilStyles from '../../styles/utils.module.css'

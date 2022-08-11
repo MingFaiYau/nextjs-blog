@@ -2,7 +2,7 @@ import Layout from '../components/Layout'
 import utilStyles from '../styles/utils.module.css'
 
 import { getSortedPostsData } from '../lib/posts'
-import Date from '../components/Date'
+import Date from '../components/MyDate'
 import Link from 'next/link'
 
 export async function getStaticProps() {
